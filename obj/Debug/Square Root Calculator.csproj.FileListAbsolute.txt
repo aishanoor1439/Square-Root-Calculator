@@ -1,0 +1,7 @@
+C:\Users\ABC\source\repos\Square Root Calculator\Square Root Calculator\bin\Debug\Square Root Calculator.exe.config
+C:\Users\ABC\source\repos\Square Root Calculator\Square Root Calculator\bin\Debug\Square Root Calculator.exe
+C:\Users\ABC\source\repos\Square Root Calculator\Square Root Calculator\bin\Debug\Square Root Calculator.pdb
+C:\Users\ABC\source\repos\Square Root Calculator\Square Root Calculator\obj\Debug\Square Root Calculator.csproj.AssemblyReference.cache
+C:\Users\ABC\source\repos\Square Root Calculator\Square Root Calculator\obj\Debug\Square Root Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ABC\source\repos\Square Root Calculator\Square Root Calculator\obj\Debug\Square Root Calculator.exe
+C:\Users\ABC\source\repos\Square Root Calculator\Square Root Calculator\obj\Debug\Square Root Calculator.pdb
